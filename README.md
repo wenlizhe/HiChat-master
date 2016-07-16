@@ -12,15 +12,14 @@ Features
 * keyboard support :musical_keyboard:
 * online users count statistic :ghost:
 
-How to run
----
-1. download the code then extract
-2. run `npm install` from command line window
-3. run `node server` or `iojs server` if you are using [io.js](https://iojs.org/)
-4. finnaly, open your browser and visit `localhost:3000`
+本地运行方法：
 
-教程见博客 http://www.cnblogs.com/Wayou/p/hichat_built_with_nodejs_socket.html
+    命令行运行npm install
+    模块下载成功后，运行node server启动服务器
+    打开浏览器访问localhost:3000
 
-![blah](https://www.codeship.io/projects/73bd0d90-9897-0131-516c-56598d7b87e5/status)
+
+
+
 
 
